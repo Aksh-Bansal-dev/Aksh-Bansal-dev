@@ -11,7 +11,7 @@
 - 📫 How to reach me: [email](mailto:akshbansal321@gmail.com) or [linkedIn](https://www.linkedin.com/in/aksh-bansal-0a1073200/)
 - ⚜ Pronouns: He/His
 - 🐱‍🚀 Fun fact: I use vim!
-- 🪅 IPFS: [me](https://cloudflare-ipfs.com/ipfs/QmYJX6uicZjc2HNMPHxZ6BNJ4a4cJmUj7153oEjHu3Nojz)
+- 🪅 NFT: [me](https://cloudflare-ipfs.com/ipfs/QmYJX6uicZjc2HNMPHxZ6BNJ4a4cJmUj7153oEjHu3Nojz)
 
 <!-- 
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aksh-bansal-dev&layout=compact&show_icons=true&hide_border=true&bg_color=232326&icon_color=ebcb8b&title_color=a0c5e7&text_color=a0c5e7)
