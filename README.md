@@ -1,9 +1,8 @@
 <!-- ### 👋 Hello world, I'm Aksh Bansal -->
 
-<!-- ![gif](https://media.giphy.com/media/KX81UwrGWMbGH0WvWR/giphy.gif) -->
 <!-- <img align="center" width=420px alt="GIF" src="https://media.giphy.com/media/3ohhwNqFMnb7wZgNnq/giphy.gif"  height="250"/> -->
 <!-- <img align="center" height="250px" width="900px" alt="GIF" src="https://media.giphy.com/media/3ohhwNqFMnb7wZgNnq/giphy.gif"  /> -->
-
+<img src="https://raw.githubusercontent.com/Aksh-Bansal-dev/Aksh-Bansal-dev/e7d118394cb01d5f53d9d89a0609996e9dae6c04/github.svg" />
 
 <!-- ### About me
 
