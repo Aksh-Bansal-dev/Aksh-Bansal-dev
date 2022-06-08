@@ -2,7 +2,7 @@
 
 <!-- <img align="center" width=420px alt="GIF" src="https://media.giphy.com/media/3ohhwNqFMnb7wZgNnq/giphy.gif"  height="250"/> -->
 <!-- <img align="center" height="250px" width="900px" alt="GIF" src="https://media.giphy.com/media/3ohhwNqFMnb7wZgNnq/giphy.gif"  /> -->
-<img src="https://raw.githubusercontent.com/Aksh-Bansal-dev/Aksh-Bansal-dev/e7d118394cb01d5f53d9d89a0609996e9dae6c04/github.svg" />
+<img src="https://raw.githubusercontent.com/Aksh-Bansal-dev/Aksh-Bansal-dev/c3cf4627a6217fb02f1121435f6e8b1d72ddcd5b/github.svg" />
 
 <!-- ### About me
 
